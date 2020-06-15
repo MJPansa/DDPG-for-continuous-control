@@ -14,9 +14,9 @@ Iam using an actor-critic algorithm called Deep Deterministic Policy Gradients (
 
 ## untrained vs trained agents
 
-![](reacher_random.gif)
+![](data/reacher_random.gif)
 
-![](reacher_trained.gif)
+![](data/reacher_trained.gif)
 
 ## Getting started
 1. To set up your Python environment correctly follow [this link](https://github.com/udacity/deep-reinforcement-learning#dependencies).
