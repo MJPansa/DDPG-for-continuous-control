@@ -2,7 +2,7 @@
 
 My solution to the continuous control project of Udacity's Deep Reinforcement Learning Nanodegree
 
-See the [report.md](report.md) for more information on the algorithm and implementation.
+See the [report](report.md) for more information on the algorithm and implementation.
 
 ## Project details
 This project is part of the Udacity Deep Reinforcement Learning nanodegree.
