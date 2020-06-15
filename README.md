@@ -30,4 +30,4 @@ Iam using an actor-critic algorithm called Deep Deterministic Policy Gradients (
 
 3. Clone the repo and add the environment files to it.
 
-4. Run the training or validation from within the notebook 'ddpg_train.ipynb'
+4. Run the training or validation from within the [jupyter notebook](ddpg_train.ipynb).
